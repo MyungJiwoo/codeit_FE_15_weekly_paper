@@ -230,6 +230,8 @@ CSS cascade에 참여하는 요소는 `property: value;` 형태의 선언들 뿐
   - `@media`, `@document`, `@supports` : 이 규칙들에 포함되는 선언은 cascade에 참여하지만, 조건이 맞지 않으면 해당 선택자 자체가 적용되지 않을 수도 있음
   - `@import` : 키워드 자체는 cascade에 참여하지 않지만, 불러온 스타일은 cascade에 적용됨.
 
+<br>
+
 ## 참고 URL
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascade/Cascade
